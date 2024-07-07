@@ -11,7 +11,7 @@ This repository contains the implementation of a voice assistant that transcribe
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/voice_assistant.git
+    https://github.com/GhulamNabiUET/Talking-Assistant-.git
     ```
 2. Navigate to the project directory:
     ```bash
